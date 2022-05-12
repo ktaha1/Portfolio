@@ -1,0 +1,9 @@
+diff a/index.html b/index.html	(rejected hunks)
+@@ -244,6 +244,7 @@
+       </div>
+     </section><!-- End Skills Section -->
+ 
++        <!-- ======= Services Section ======= -->
+     <section id="services" class="services">
+       <div class="container">
+ 
