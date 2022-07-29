@@ -1051,3 +1051,30 @@ section {
 #btn_resume:hover {
   background-color: #1489dd;
 }
+
+
+
+#card {
+  position: relative;
+  width: 390px;
+  display: block;
+  margin: 100px auto;
+  text-align: center;
+}
+#upper-side {
+  padding: 2em;
+  background-color: #149ddd;
+  display: block;
+  color: #fff;
+  border-top-right-radius: 8px;
+  border-top-left-radius: 8px;
+}
+
+#down-side {
+  padding: 2em;
+  background-color: white;
+  display: block;
+  border-bottom-right-radius: 8px;
+  border-bottom-left-radius: 8px;
+  text-align: center;
+}
