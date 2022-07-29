@@ -337,9 +337,9 @@ section {
   background: #FF9000;
 }
 #about img {
-  margin: 1px auto;
+  margin: 10px auto;
   display: block;
-  width: 50%;
+  width: 80%;
   border: 0.5px solid #2c2f3f;
   border-radius: 15%;
 }
