@@ -2,7 +2,7 @@
 
 Template used for my personal portfolio website.
 
-[Click here to access the deployed version on netlify](https://kam-portfolio.netlify.app).
+[Click here to access the deployed version on netlify](https://taha-kamil.netlify.app).
 
 This portfolio was designed using Bootstrap v5 and other libraries listed in assets/vendor folder.
 
